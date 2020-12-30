@@ -41,7 +41,7 @@ guide that'll show how to install system packages for those tools.
 ## Using a Web API
 We're going to use a web API to make sending SMS easier and more reliable.
 Head to the 
-[Twilio website and sign up for a free trial account](www.twilio.com/referral/w9pugq)
+[Twilio website and sign up for a free trial account](//www.twilio.com/referral/w9pugq)
 awesome for more than just sending text messages!) then sign into your 
 existing account.
 
