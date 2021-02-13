@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: Lorem ipsum
+  link: /test.html
+- name: Blog
+  link: /blog.html
